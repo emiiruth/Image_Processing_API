@@ -1,4 +1,4 @@
-Image Resizer API
+Image Resizer API built for Udacity Course
 
 files to use with the image resizer are included in the projectPics file, along
 with a test image.
