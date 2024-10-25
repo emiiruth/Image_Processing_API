@@ -12,10 +12,3 @@ http://localhost:3000/api/resize?imagename=encenadaport&height=600&width=200
 In order to build the server, run "npm run build"
 In order to start the server, run "npm run start"
 In order to test, run "npm run test"
-
-EDIT: RESUBMIT
--implemented __dirname so resizing functionality should work on any computer, not just mine
--moved everything but express and sharp out of the dependencies and into dev dependencies
--used supertest to make a get request in my test instead of relying on server being running
--checked and corrected all callbacks and functions to have explicitly typed parameters and return. 
-
